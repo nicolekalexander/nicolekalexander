@@ -7,4 +7,3 @@ Throughout my coding journey, I studied frontend web development, data science, 
 [Check out some of my live websites](https://nicolekalexander.github.io/)
 
 or check out some of my code samples below! 
-🥝
